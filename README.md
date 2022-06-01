@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+O ToDo é um app para organizar suas tarefas, possibilitando adicionar, apagar e marcar como concluída.
 
 ## Como executar
 
